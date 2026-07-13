@@ -1,5 +1,3 @@
-import './style.css'
-
 let tasks = [];
 let taskId = 1;
 let currentFilter = 'all';
